@@ -1,16 +1,8 @@
 # flutter_dialog
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-
+-
+watch video on Youtube:https://youtu.be/2PFi4Y-PbyY
+-
+-
+![sss](https://user-images.githubusercontent.com/78899995/181572950-db8dedf9-ffde-45b3-bbb8-fcc28bc6061e.jpg)
